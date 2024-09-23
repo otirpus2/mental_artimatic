@@ -1,0 +1,14 @@
+C:\Users\Senior Computer Lab\Music\swp\obj\Debug\net8.0\swp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senior Computer Lab\Music\swp\obj\Debug\net8.0\swp.AssemblyInfoInputs.cache
+C:\Users\Senior Computer Lab\Music\swp\obj\Debug\net8.0\swp.AssemblyInfo.cs
+C:\Users\Senior Computer Lab\Music\swp\obj\Debug\net8.0\swp.csproj.CoreCompileInputs.cache
+C:\Users\Senior Computer Lab\Music\swp\bin\Debug\net8.0\swp.exe
+C:\Users\Senior Computer Lab\Music\swp\bin\Debug\net8.0\swp.deps.json
+C:\Users\Senior Computer Lab\Music\swp\bin\Debug\net8.0\swp.runtimeconfig.json
+C:\Users\Senior Computer Lab\Music\swp\bin\Debug\net8.0\swp.dll
+C:\Users\Senior Computer Lab\Music\swp\bin\Debug\net8.0\swp.pdb
+C:\Users\Senior Computer Lab\Music\swp\obj\Debug\net8.0\swp.dll
+C:\Users\Senior Computer Lab\Music\swp\obj\Debug\net8.0\refint\swp.dll
+C:\Users\Senior Computer Lab\Music\swp\obj\Debug\net8.0\swp.pdb
+C:\Users\Senior Computer Lab\Music\swp\obj\Debug\net8.0\swp.genruntimeconfig.cache
+C:\Users\Senior Computer Lab\Music\swp\obj\Debug\net8.0\ref\swp.dll
